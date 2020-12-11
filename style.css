@@ -1,0 +1,16 @@
+html{
+    background-color: darkgrey;
+}
+
+
+h1.centro{
+    text-align: center;
+   
+}
+div.uno{
+    background-color: cornflowerblue;
+    
+}
+h2.sub{
+    text-decoration: underline;
+}
