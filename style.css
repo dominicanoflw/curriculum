@@ -1,16 +1,45 @@
 html{
-    background-color: darkgrey;
+    background-color: hsl(200, 15%, 85%);
 }
 
 
 h1.centro{
+ 
     text-align: center;
    
 }
 div.uno{
-    background-color: cornflowerblue;
+    background-color: hsl(200, 15%, 75%);
     
 }
 h2.sub{
     text-decoration: underline;
+    background-color: hsl(200, 15%, 55%);
+}span.azul{
+    color: blue;
+}
+p.color{
+    background-color: hsl(200, 15%, 75%);
+}
+h2.tres{
+    background-color: hsl(200, 15%, 55%);
+    text-decoration: underline;
+} 
+h2.cuatro{
+    background-color: hsl(200, 15%, 55%);
+    text-decoration: underline;
+}
+span.negrita{
+color: blue;
+    font-weight: 900;
+
+}
+h3.idi{
+    color: steelblue;
+    background-color: hsl(200, 15%, 65%);
+}
+p.derecha{
+    text-align: right;
+    background-color: white;
+    font-weight: 900;
 }
